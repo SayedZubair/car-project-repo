@@ -8,5 +8,6 @@ public class Main {
         xx.door="4";
         xx.engine=2222;
         xx.model="a5";
+        System.out.println("xyx");
     }
 }
